@@ -6,7 +6,12 @@ An end-to-end exploratory data analysis and interactive Streamlit dashboard exam
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?logo=plotly&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-22C55E)
-Streamlit Dashboard[https://mainpy-56ciycdtkrtbymkqiywadu.streamlit.app/]
+## 🌐 Live Dashboard
+
+The Streamlit dashboard link will be added here after deployment.
+
+[**Live Dashboard**](https://mainpy-56ciycdtkrtbymkqiywadu.streamlit.app/)
+
 ## Project overview
 
 Mental health can influence employee wellbeing, productivity, retention, and psychological safety. This project turns 1,259 survey responses into a decision-oriented dashboard that identifies treatment patterns, workplace barriers, and gaps in employer support.
