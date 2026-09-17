@@ -1,0 +1,24 @@
+Feature,Chi-Square,P-Value,Degrees of Freedom,Cramers V,Significant
+work_interfere,594.924,0.0,4,0.685,Yes
+family_history,178.267,0.0,1,0.377,Yes
+care_options,94.759,0.0,2,0.272,Yes
+benefits,64.839,0.0,2,0.223,Yes
+gender_group,52.267,0.0,3,0.198,Yes
+obs_consequence,30.14,0.0,1,0.154,Yes
+leave,29.943,1e-05,4,0.144,Yes
+anonymity,26.422,0.0,2,0.139,Yes
+country,69.8,0.01706,47,0.135,Yes
+mental_health_consequence,22.327,1e-05,2,0.127,Yes
+mental_vs_physical,17.458,0.00016,2,0.111,Yes
+mental_health_interview,12.69,0.00176,2,0.092,Yes
+wellness_program,11.498,0.00319,2,0.087,Yes
+seek_help,10.934,0.00422,2,0.084,Yes
+coworkers,6.001,0.04975,2,0.056,Yes
+no_employees,8.765,0.11882,5,0.055,No
+age_group,8.74,0.1199,5,0.054,No
+phys_health_interview,3.4,0.18271,2,0.033,No
+phys_health_consequence,3.371,0.18536,2,0.033,No
+tech_company,1.093,0.29584,1,0.014,No
+self_employed,0.529,0.76754,2,0.0,No
+remote_work,0.8,0.37121,1,0.0,No
+supervisor,1.726,0.422,2,0.0,No
