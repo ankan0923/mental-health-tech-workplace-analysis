@@ -88,14 +88,7 @@ mental-health-tech-workplace-analysis/
 
 ## Run locally
 
-1. Clone the repository and enter the project directory.
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/mental-health-tech-workplace-analysis.git
-   cd mental-health-tech-workplace-analysis
-   ```
-
-2. Create and activate a virtual environment.
+1. Create and activate a virtual environment.
 
    ```bash
    python -m venv .venv
@@ -105,7 +98,7 @@ mental-health-tech-workplace-analysis/
 
    macOS or Linux: `source .venv/bin/activate`
 
-3. Install dependencies and launch the dashboard.
+2. Install dependencies and launch the dashboard.
 
    ```bash
    pip install -r requirements.txt
