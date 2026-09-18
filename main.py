@@ -613,3 +613,5 @@ with c2:
     st.download_button("⬇ Download filtered CSV", filtered.to_csv(index=False).encode("utf-8"), "filtered_mental_health_survey.csv", "text/csv", use_container_width=True)
 
 st.info("Educational survey analysis only. Treatment is self-reported, not a medical diagnosis, and observed associations do not establish causation.")
+st.sidebar.caption("Design By - Ankan Chowdhury")
+
