@@ -16,7 +16,9 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-DATA_PATH = Path(__file__).with_name("cleaned_mental_health_survey.csv")
+DATA_PATH = (Path(__file__).resolve().parent
+    / "CSV_File"
+    / "cleaned_mental_health_survey.csv")
 NAVY = "#08111F"
 CARD = "#101C2F"
 BLUE = "#38BDF8"
